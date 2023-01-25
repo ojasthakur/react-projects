@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Projects
 
 #### React Course
@@ -66,3 +67,7 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 21. Movie DB
 22. Hacker News
 23. Quiz
+=======
+# react-projects
+Academic Projects Made While Learning React
+>>>>>>> 782cde0ed04b09ef89594462a183505d65ee2f38
